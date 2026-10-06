@@ -1,5 +1,17 @@
 <div align="center">
 
+**English** · [简体中文](README_ZH.md)
+
+[HRouter](https://hrouter.net/home) · [All public projects](https://github.com/honestTai) · [Star & Fork trends](#project-activity)
+
+</div>
+
+[![Repository summary](https://raw.githubusercontent.com/honestTai/honestTai/main/assets/badges/cc-switch.svg)](#project-activity)
+
+> **Upstream fork:** honestTai’s fork of [farion1231/cc-switch](https://github.com/farion1231/cc-switch). Upstream authorship, sponsors, documentation, and license remain below.
+
+<div align="center">
+
 # CC Switch
 
 ### The All-in-One Manager for Claude Code, Codex, Gemini CLI, OpenCode & OpenClaw
@@ -492,3 +504,17 @@ For new features, please open an issue for discussion before submitting a PR. PR
 ## License
 
 MIT © Jason Young
+
+---
+
+<a id="project-activity"></a>
+
+## Project activity
+
+Star / Fork totals and retained-event history, scheduled to refresh daily.
+
+[![Star and Fork history for cc-switch](https://raw.githubusercontent.com/honestTai/honestTai/main/assets/metrics/cc-switch.svg)](https://github.com/honestTai/honestTai/blob/main/data/README.md)
+
+[Observed daily totals](https://raw.githubusercontent.com/honestTai/honestTai/main/assets/metrics/cc-switch-daily.svg) · [Methodology](https://github.com/honestTai/honestTai/blob/main/data/METHODOLOGY.md) · [All public projects](https://github.com/honestTai)
+
+<sub>Historical curves reconstruct currently retained stars and visible forks, not historical net totals. Separate daily observations start on 2026-10-06; no fabricated backfill.</sub>

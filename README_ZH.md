@@ -1,5 +1,17 @@
 <div align="center">
 
+[English](README.md) · **简体中文**
+
+[HRouter](https://hrouter.net/home) · [All public projects](https://github.com/honestTai) · [Star & Fork trends](#project-activity)
+
+</div>
+
+[![Repository summary](https://raw.githubusercontent.com/honestTai/honestTai/main/assets/badges/cc-switch.svg)](#project-activity)
+
+> **上游 Fork：**本仓库来自 [farion1231/cc-switch](https://github.com/farion1231/cc-switch)，保留原作者、赞助、文档与许可，不标为原创。
+
+<div align="center">
+
 # CC Switch
 
 ### Claude Code、Codex、Gemini CLI、OpenCode 和 OpenClaw 的全方位管理工具
@@ -495,3 +507,17 @@ pnpm test:unit --coverage
 ## License
 
 MIT © Jason Young
+
+---
+
+<a id="project-activity"></a>
+
+## 项目动态 · Project activity
+
+当前 Star / Fork 数量与留存事件历史，计划每日更新。
+
+[![Star and Fork history for cc-switch](https://raw.githubusercontent.com/honestTai/honestTai/main/assets/metrics/cc-switch.svg)](https://github.com/honestTai/honestTai/blob/main/data/README.md)
+
+[每日实测趋势](https://raw.githubusercontent.com/honestTai/honestTai/main/assets/metrics/cc-switch-daily.svg) · [数据口径](https://github.com/honestTai/honestTai/blob/main/data/METHODOLOGY.zh-CN.md) · [全部公开项目](https://github.com/honestTai)
+
+<sub>历史曲线仅重建当前仍保留的 Star 与可见 Fork，并非过去每日净总量。每日实测总量自 2026-10-06 开始，不伪造回填。</sub>
